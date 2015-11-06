@@ -3,4 +3,5 @@ var app = Ember.Application.create({
 });
 
 app.Router.map(function() {
+	this.route('about');
 });
