@@ -45,11 +45,11 @@ Now check `localhost/phpinfo.php` to see if PHP is working fine.
 
 #### 5. Download & install MySQL for Mac
 
-[Download link](http://dev.mysql.com/downloads/mysql/)
-
-Mount the .dmg and install the .pkg
+[Download link](http://dev.mysql.com/downloads/mysql/). Then mount the .dmg and install the .pkg
 
 #### 6. Configure MySQL
+
+All steps to get MySQL up and running before connecting it to PHP.
 
  1. **Start the server** via `Preferences > MySQL > Start MySQL Server`.
  2. **Add the bin to path**: Add the line `/usr/local/mysql/bin` at the beginning of the `/etc/paths/` file.
@@ -65,5 +65,31 @@ Mount the .dmg and install the .pkg
  ```
  5. Execute a command like `select 1` or something to **check if it works**.
 
+Now we can go ahead with the connection part.
+
 #### 7. Connect PHP & MySQL
 
+If you have /tmp/mysql.sock but no /var/mysql/mysql.sock then...
+
+```
+cd /var 
+sudo mkdir mysql
+sudo chmod 755 mysql
+cd mysql
+sudo ln -s /tmp/mysql.sock mysql.sock
+```
+If you have /var/mysql/mysql.sock but no /tmp/mysql.sock then
+```
+cd /tmp
+ln -s /var/mysql/mysql.sock mysql.sock
+```
+
+#### 8. (Optional) Getting phpmyadmnin to make life easier
+
+ 1. Download the english zip from [here](https://www.phpmyadmin.net/downloads/)
+ 2. Extract & move/copy the folder into `/Library/WebServer/Documents/phpmyadmnin`
+ 3. Go to `localhost/phpmyadmin` and login & do your business here =P
+
+#### 9. Rejoice!
+
+It's done. You now have Apache, MySQL & PHP configured alongwith phpmyadmin.
