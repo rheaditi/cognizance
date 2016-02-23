@@ -49,16 +49,21 @@ Now check `localhost/phpinfo.php` to see if PHP is working fine.
 
 Mount the .dmg and install the .pkg
 
-#### 6. Starting the server
+#### 6. Configure MySQL
 
-Preferences > MySQL > Start MySQL Server
+ 1. **Start the server** via `Preferences > MySQL > Start MySQL Server`.
+ 2. **Add the bin to path**: Add the line `/usr/local/mysql/bin` at the beginning of the `/etc/paths/` file.
+ 3. **Login to the client** using the root password that was generated during the installation. (Hopefully you kept note of that)
+ 
+ ```
+ mysql -u root -p
+ ```
+ 4. After logging in you can **reset the password** by typing: 
+ 
+ ```
+ mysql > SET PASSWORD = PASSWORD('NEW_PASSWORD_HERE')
+ ```
+ 5. Execute a command like `select 1` or something to **check if it works**.
 
-#### 7. Add mysql to the path
+#### 7. Connect PHP & MySQL
 
-Open `/etc/paths/` and append `/usr/local/mysql/bin` to it. (First line)
-
-Login to the client using the root password that was generated during the installation. (Hopefully you kept note of that)
-
-```
-mysql -u root -p
-```
