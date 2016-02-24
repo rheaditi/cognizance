@@ -1,6 +1,6 @@
 # Apache, MySQL, PHP etc
  
-## [Main Guide](http://jason.pureconcepts.net/2015/10/install-apache-php-mysql-mac-os-x-el-capitan)
+[Main Guide](http://jason.pureconcepts.net/2015/10/install-apache-php-mysql-mac-os-x-el-capitan)
 
 # Steps Concise
 
