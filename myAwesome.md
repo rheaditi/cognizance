@@ -17,6 +17,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 * [FreePik](http://www.freepik.com/)
 
+### Icons
+
+* [Noun Project](https://thenounproject.com/)
+* [Flaticon](http://www.flaticon.com/)
+
 ### Stock Photos
 
 * [Pexels](https://www.pexels.com)
