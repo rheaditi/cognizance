@@ -6,3 +6,6 @@ Common solutions:
   Also, just adding it to `.gitignore` will not remove its traces after it has been added to the tree. =(  
 
   _Solution_: Elegantly [Untrack Files In Git Repos Without Deleting Them](http://www.arlocarreon.com/blog/git/untrack-files-in-git-repos-without-deleting-them/).
+
+* Deploying only a sub-folder of a branch to GitHub pages.
+  _Solution_: [This](https://gist.github.com/cobyism/4730490).
