@@ -2,6 +2,12 @@
 
 Mostly from [here](https://help.github.com/categories/writing-on-github/).
 
+## Emoji! :grin:
+
+Adding emojis is easy-peasy. :+1:  
+Just enclose the emoji name in `: :`. Cheatsheet of emojis [here](http://emoji-cheat-sheet.com/).
+
+
 ## Simple Stuff - Styling text
 
 > You can indicate emphasis with bold, italic, or strikethrough text.
@@ -34,3 +40,8 @@ Will render as:
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+
+## Mentions
+
+Mention a user using `@username` or `@organisationName`.
+Works in comments only (<abbr title="as far as I know">AFAIK<abbr>).
