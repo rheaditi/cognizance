@@ -11,6 +11,19 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
   * [Vector Graphics](#vector-graphics)
   * [Stock Photos](#stock-photos)
 
+## Web Resources
+
+### Lipsum Generators
+
+The [generic ipsum](http://www.lipsum.com/).
+
+* Another lipsum [loripsum](http://loripsum.net/)
+* [Cupcake Ipsum](http://www.cupcakeipsum.com/)
+* [Hipster Ipsum](http://hipsum.co/)
+* [Kitty Ipsum](http://www.catipsum.com/)
+* [Lorem F*cking Ipsum](http://loremfuckingipsum.com/)
+* [Space Ipsum](http://spaceipsum.com/)
+
 ## Design Resources
 
 ### Vector Graphics
