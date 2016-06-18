@@ -1,6 +1,17 @@
 # Awesome
 My version of the awesome list. Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Awesome](#)
+	- [Development Environment](#)
+	- [Web Resources](#)
+		- [Lipsum Generators](#)
+	- [Design Resources](#)
+		- [Vector Graphics](#)
+		- [Icons](#)
+		- [Stock Photos](#)
+
 ## Development Environment
 
 * [Git](https://git-scm.com) & [GitHub](github.com)
