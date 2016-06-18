@@ -1,15 +1,10 @@
 # Awesome
+My version of the awesome list. Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
-My version of the awesome list.
+## Development Environment
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome).
-
-
-# Contents 
-
-* [Design Resources](#design-resources)
-  * [Vector Graphics](#vector-graphics)
-  * [Stock Photos](#stock-photos)
+* [Git](https://git-scm.com) & [GitHub](github.com)
+ * [DocToc](https://github.com/thlorenz/doctoc-web) - Table of Contents Generator
 
 ## Web Resources
 
