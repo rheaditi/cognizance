@@ -5,23 +5,23 @@ My version of the awesome list. Inspired by [awesome](https://github.com/sindres
 
 - [Awesome](#)
 	- [Development Environment](#devenv)
-	- [Web Resources](#webres)
+	- [Web Resources](#web)
 		- [Lipsum Generators](#lipsum)
-	- [Design Resources](#)
-		- [Vector Graphics](#)
-		- [Icons](#)
-		- [Stock Photos](#)
+	- [Design Resources](#design)
+		- [Vector Graphics](#vector)
+		- [Icons](#icons)
+		- [Stock Photos](#stock)
 
-<a name="devenv">
-## Development Environment
+
+## Development Environment <a name="devenv">
 
 * [Git](https://git-scm.com) & [GitHub](github.com)
  * [DocToc](https://github.com/thlorenz/doctoc-web) - Table of Contents Generator
 
-<a name="webres">
-## Web Resources
-<a name="lipsum">
-### Lipsum Generators
+
+## Web Resources <a name="web">
+
+### Lipsum Generators <a name="lipsum">
 
 The [generic ipsum](http://www.lipsum.com/).
 
@@ -32,18 +32,18 @@ The [generic ipsum](http://www.lipsum.com/).
 * [Lorem F*cking Ipsum](http://loremfuckingipsum.com/)
 * [Space Ipsum](http://spaceipsum.com/)
 
-## Design Resources
+## Design Resources <a name="design">
 
-### Vector Graphics
+### Vector Graphics <a name="vector">
 
 * [FreePik](http://www.freepik.com/)
 
-### Icons
+### Icons <a name="icons">
 
 * [Noun Project](https://thenounproject.com/)
 * [Flaticon](http://www.flaticon.com/)
 
-### Stock Photos
+### Stock Photos <a name="stock">
 
 * [Pexels](https://www.pexels.com)
 * [FindA.Photo](http://finda.photo/)
