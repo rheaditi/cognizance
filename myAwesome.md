@@ -4,21 +4,23 @@ My version of the awesome list. Inspired by [awesome](https://github.com/sindres
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [Awesome](#)
-	- [Development Environment](#)
-	- [Web Resources](#)
-		- [Lipsum Generators](#)
+	- [Development Environment](#devenv)
+	- [Web Resources](#webres)
+		- [Lipsum Generators](#lipsum)
 	- [Design Resources](#)
 		- [Vector Graphics](#)
 		- [Icons](#)
 		- [Stock Photos](#)
 
+<a name="devenv">
 ## Development Environment
 
 * [Git](https://git-scm.com) & [GitHub](github.com)
  * [DocToc](https://github.com/thlorenz/doctoc-web) - Table of Contents Generator
 
+<a name="webres">
 ## Web Resources
-
+<a name="lipsum">
 ### Lipsum Generators
 
 The [generic ipsum](http://www.lipsum.com/).
