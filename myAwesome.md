@@ -12,16 +12,16 @@ My version of the awesome list. Inspired by [awesome](https://github.com/sindres
 		- [Icons](#icons)
 		- [Stock Photos](#stock)
 
-
-## Development Environment <a name="devenv">
+<a name="devenv">
+## Development Environment 
 
 * [Git](https://git-scm.com) & [GitHub](github.com)
  * [DocToc](https://github.com/thlorenz/doctoc-web) - Table of Contents Generator
 
-
-## Web Resources <a name="web">
-
-### Lipsum Generators <a name="lipsum">
+<a name="web">
+## Web Resources 
+<a name="lipsum">
+### Lipsum Generators 
 
 The [generic ipsum](http://www.lipsum.com/).
 
@@ -31,19 +31,19 @@ The [generic ipsum](http://www.lipsum.com/).
 * [Kitty Ipsum](http://www.catipsum.com/)
 * [Lorem F*cking Ipsum](http://loremfuckingipsum.com/)
 * [Space Ipsum](http://spaceipsum.com/)
-
-## Design Resources <a name="design">
-
-### Vector Graphics <a name="vector">
+<a name="design">
+## Design Resources 
+<a name="vector">
+### Vector Graphics 
 
 * [FreePik](http://www.freepik.com/)
-
-### Icons <a name="icons">
+<a name="icons">
+### Icons 
 
 * [Noun Project](https://thenounproject.com/)
 * [Flaticon](http://www.flaticon.com/)
-
-### Stock Photos <a name="stock">
+<a name="stock">
+### Stock Photos 
 
 * [Pexels](https://www.pexels.com)
 * [FindA.Photo](http://finda.photo/)
