@@ -18,6 +18,9 @@ My version of the awesome list. Inspired by [awesome](https://github.com/sindres
 * [Git](https://git-scm.com) & [GitHub](github.com)
  * [DocToc](https://github.com/thlorenz/doctoc-web) - Table of Contents Generator
 
+## Windows Resources
+* [Hashtab](http://implbits.com/products/hashtab/) adds a tab int the `properties` of each file for hashes (MDx and SHA-x).
+
 <a name="web">
 ## Web Resources 
 <a name="lipsum">
