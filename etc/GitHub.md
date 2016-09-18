@@ -10,4 +10,7 @@
   source 'https://rubygems.org'  
   gem 'github-pages', group: :jekyll_plugins
   ```
-5. Run `bundle install`
+5. Run `bundle install`, this installs all github-jekyll plugins etc.
+6. `git checkout -b gh-pages` for a project site  
+7. Run `bundle exec jekyll new . --force` to setup a new jekyll project.
+8. `bundle exec jekyll serve` and check it out in the browser.
