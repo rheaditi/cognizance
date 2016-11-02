@@ -7,5 +7,10 @@ Common solutions:
 
   _Solution_: Elegantly [Untrack Files In Git Repos Without Deleting Them](http://www.arlocarreon.com/blog/git/untrack-files-in-git-repos-without-deleting-them/).
 
-* Deploying only a sub-folder of a branch to GitHub pages.
+* __Deploying only a sub-folder of a branch to GitHub pages__.  
+  _Problem_: Want to keep the jekyll source on master and generated files on gh-pages?  
   _Solution_: [This](https://gist.github.com/cobyism/4730490).
+
+* __Rebasing - Including the `Initial Commit`__  
+  _Problem_: Want to squash from/till the first commit?  
+ _Solution_: Eg. for master: `git rebase -i --root master`. This will start the rebase so you can change from the root of the branch :)
